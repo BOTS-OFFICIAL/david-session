@@ -65,10 +65,11 @@ router.get('/', async (req, res) => {
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 ❶ || Creator = 𖥘 MAGICAL KX 𖥘
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-❷ || WhattsApp Channel = https://whatsapp.com/channel/0029VaeRru3ADTOEKPCPom0L
+❷ || https://whatsapp.com/channel/0029Vah4I4P2UPB8vOAmDV3V
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 Please Follow My Support Channel
 Wanna talk to me?👉 https://t.me/Kentonx 👈
+Or whatsapp find me wa.me/263789432940
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 ©*2024-2099 MAGICAL-KX*
 
